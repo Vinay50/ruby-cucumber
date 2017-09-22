@@ -2,6 +2,6 @@ class User
 	def initialize type: type
 	end
 	def greeting
-		puts "Abhoy and greetings"
+		puts "Ahoy and welcome!"
 	end
 end

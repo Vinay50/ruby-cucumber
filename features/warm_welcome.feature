@@ -4,4 +4,4 @@ Feature: Warm Welcome
 
 	Scenario:
 		Given I am a sailor
-		Then  I want to be greeted "Abhoy and greetings"
+		Then I want to be greeted "Ahoy and welcome!"

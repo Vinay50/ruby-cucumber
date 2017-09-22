@@ -6,3 +6,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # gem "rails"
 gem 'cucumber'
 gem 'rspec-expectations'
+gem 'shoulda-matchers'
+gem 'test-unit'
+ gem 'minitest'
